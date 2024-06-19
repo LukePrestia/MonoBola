@@ -1,2 +1,2 @@
 # MonoBola
- Juego 3D plataforma en MonoGame
+ Juego plataforma 3D en MonoGame
