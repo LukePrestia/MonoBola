@@ -4,7 +4,7 @@
 
 Foto  |  Apellido, Nombre
 ------------ | -------------
-| <img src="https://github.com/matiasflores94/2023-1C-3051-MonoBola/blob/292698169d975947632cc1e655c6ff308473c27b/integrante.jpg" height="500"> | Luca Prestia |
+| <img src="https://github.com/matiasflores94/2023-1C-3051-MonoBola/blob/292698169d975947632cc1e655c6ff308473c27b/integrante.jpg" height="500"> | Prestia Luca |
 
 ## Capturas
 
