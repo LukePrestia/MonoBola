@@ -1,5 +1,5 @@
 # MonoBola
- Juego plataforma 3D en MonoGame usando C#
+ Juego plataforma 3D en C# usando MonoGame
 ## Integrantes
 
 Foto  |  Apellido, Nombre
